@@ -43,7 +43,7 @@ document.getElementById("header").innerHTML = `  <div class="container">
                                 <a class="nav-link" href="yoga-activities.html">yoga activities</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">gallery</a>
+                                <a class="nav-link" href="gallery.html">gallery</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Blogs</a>
@@ -52,7 +52,7 @@ document.getElementById("header").innerHTML = `  <div class="container">
                                 <a class="nav-link" href="contact-us.html">contact us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Enroll now</a>
+                                <a class="nav-link" href="contact-us.html">Enroll now</a>
                             </li>
                         </ul>
                     </div>
