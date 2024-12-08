@@ -1,0 +1,46 @@
+@media screen and (max-width:1024px) {
+    .header-slider .carousel .carousel-inner .carousel-item .carousel-caption {
+        max-width: 70%;
+    }
+
+    .about-us .card {
+        margin: 0;
+    }
+
+    .certificate-image ul {
+        justify-content: start;
+    }
+    .owl-carousel .owl-nav{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .header-slider .carousel .carousel-inner {
+        height: 60vh;
+    }
+
+    .header-slider .carousel .carousel-inner .carousel-item .carousel-caption {
+        width: 100%;
+        max-width: 100%;
+        padding: 1rem 2rem;
+        bottom: 25%;
+    }
+
+    .header-slider .carousel .carousel-inner .carousel-item .carousel-caption h1 {
+        font-size: 20px;
+    }
+
+    .header-slider .carousel .carousel-inner .carousel-item .carousel-caption .btn {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .hero-info .card .card-body button {
+        width: 100%;
+    }
+    .hero-header{
+        height: 5rem 0;
+    }
+}
