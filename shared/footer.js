@@ -25,25 +25,25 @@ document.getElementById("footer").innerHTML = `  <div class="container">
                                 <h5>Other Pages</h5>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> Home</a>
+                                <a href="index.html"><i class='bx bx-chevron-right'></i> Home</a>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> About Us</a>
+                                <a href="about-diksha.html"><i class='bx bx-chevron-right'></i> About Us</a>
                             </li>
                             <li>
                                 <a href="#"><i class='bx bx-chevron-right'></i> Yoga History</a>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> Yoga Teacher Training</a>
+                                <a href="yoga-teachers.html"><i class='bx bx-chevron-right'></i> Yoga Teacher Training</a>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> Yoga Activities</a>
+                                <a href="yoga-activities.html"><i class='bx bx-chevron-right'></i> Yoga Activities</a>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> Gallery</a>
+                                <a href="gallery.html"><i class='bx bx-chevron-right'></i> Gallery</a>
                             </li>
                             <li>
-                                <a href="#"><i class='bx bx-chevron-right'></i> Contact Us</a>
+                                <a href="contact-us.html"><i class='bx bx-chevron-right'></i> Contact Us</a>
                             </li>
                         </ul>
                     </div>
